@@ -1,6 +1,3 @@
-可以，下面给你一版**全中文统一**的 `README.md`，你直接复制到仓库根目录的 `README.md` 里就行。
-
-````markdown
 # ros2-tf-demos
 
 一个基于 **ROS 2 Jazzy** 的 TF 学习与演示工作空间，包含 **C++** 和 **Python** 两套示例，用于练习和测试坐标变换（Transform）的发布与监听。
